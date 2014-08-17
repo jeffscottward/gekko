@@ -1,5 +1,5 @@
 #navigate to gekko folder, change this if your location is different
-cd ~/gekko
+cd ~/Documents/Development/Projects/gekko
 
 # zip previous log files for this config
 now="`date +%Y%m%d%H%M%S`"

@@ -6,5 +6,6 @@ reporter.run([
   'test/day.js',
   'test/indicators.js',
   'test/tradeFetcher.js',
-  'test/candleConverter.js'
+  'test/candleConverter.js',
+  'test/candleStore.js'
 ]);
